@@ -2,6 +2,7 @@
 
 ## Summary
 Sample file upload web part allowing users to upload multiple files to a document library or as item attachments.
+
 ![File upload web part built on the SharePoint Framework using React](./assets/SPFileUploadPreview.gif)
 
 ## Used SharePoint Framework Version
