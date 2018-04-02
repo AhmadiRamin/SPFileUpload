@@ -1,6 +1,7 @@
 # Retail Asset Tracker Ramin Release-1 
 
 | Release Date| 01/04/2018 |
+| ------------- |:-------------:|
 
 ## Summary
 Bug fixing release to address the following bugs and improvements.
